@@ -1,7 +1,7 @@
 # React Boilerplate VS Code Extension
 
 <p align="center">
-  <img src="public/icon.png" alt="React Boilerplate Logo" width="300" height="300">
+  <img src="https://raw.githubusercontent.com/thinakaranmanokaran/React_Boilerplate/main/public/icon.png" alt="React Boilerplate Logo" width="300" height="300">
 </p>
 
 Automatically generate **React component boilerplates** in VS Code the moment you create a `.jsx` file. Boost your **React development speed** and reduce repetitive code writing.
@@ -20,7 +20,7 @@ Automatically generate **React component boilerplates** in VS Code the moment yo
 
 Creating a file `MyComponent.jsx` automatically generates:
 
-![React Boilerplate Tutorial](public/video.gif)
+<img src="https://raw.githubusercontent.com/thinakaranmanokaran/React_Boilerplate/main/public/video.gif" alt="React Boilerplate Tutorial">
 
 ```jsx
 import React from 'react';
@@ -41,7 +41,7 @@ export default MyComponent;
 1. Clone the repository or download the `.vsix` package:
 
 ```bash
-git clone https://github.com/yourusername/react-boilerplate.git
+git clone https://github.com/thinakaranmanokaran/React_Boilerplate.git
 ```
 
 2. Open VS Code and press `F5` to run the extension in the **Extension Development Host**.

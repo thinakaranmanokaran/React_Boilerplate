@@ -1,18 +1,44 @@
 {
-  "name": "react-boilerplate",
-  "displayName": "React Boilerplate",
-  "description": "Automatically inserts React boilerplate in .jsx files",
-  "version": "0.0.1",
+  "name": "react-boilerplate-plus",
+  "displayName": "React Boilerplate Plus",
+  "publisher": "thinakaran",
+  "description": "⚛️ VS Code Extension to automatically generate React component boilerplate in .jsx files for faster development 🚀",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.104.0"
   },
   "categories": [
-    "Other"
+    "Other",
+    "Chat",
+    "Snippets",
+    "Keymaps"
   ],
   "activationEvents": [
     "*"
   ],
   "main": "./src/extension.js",
+  "author": "Thinakaran Manokaran <https://www.thinakaran.dev>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thinakaranmanokaran/React_Boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thinakaranmanokaran/React_Boilerplate/issues"
+  },
+  "homepage": "https://www.thinakaran.dev/react-boilerplate",
+  "keywords": [
+    "VS Code extension",
+    "React boilerplate",
+    "JSX template",
+    "React productivity",
+    "React component generator",
+    "automatic React code",
+    "frontend development",
+    "React development tools",
+    "React snippets",
+    "React starter template",
+    "React project setup"
+  ],
   "contributes": {
     "commands": [
       {
