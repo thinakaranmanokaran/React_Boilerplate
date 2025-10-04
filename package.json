@@ -2,8 +2,9 @@
   "name": "react-boilerplate-plus",
   "displayName": "React Boilerplate Plus",
   "publisher": "thinakaran",
+  "icon": "public/icon.png",
   "description": "⚛️ VS Code Extension to automatically generate React component boilerplate in .jsx files for faster development 🚀",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.104.0"
   },
